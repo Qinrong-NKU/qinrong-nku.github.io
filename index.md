@@ -24,8 +24,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <img src="https://qinrong-nku.github.io/ASDFL.png">
 
 **Kernel Inversed Pyramidal Resizing Network for Efficient Pavement Distress Recognition, ICONIP 2022**
-<img src="https://qinrong-nku.github.io/Kernel.png" width="375"/>
+<img src="https://qinrong-nku.github.io/Kernel.png" height="375"/>
 
 **MSTIL: Multi-cue Shape-aware Transferable Imbalance Learning for effective graphic API recommendation, Journal of Systems and Software 2022**
-<img src="https://qinrong-nku.github.io/MSTIL.png" width="375"/>
+<img src="https://qinrong-nku.github.io/MSTIL.png" height="375"/>
 
