@@ -14,5 +14,5 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 # My Paper
 
-ASDFL: An adaptive super‐pixel discriminative feature‐selective learning for vehicle matching, Expert Systems 2022
+**ASDFL: An adaptive super‐pixel discriminative feature‐selective learning for vehicle matching, Expert Systems 2022**
 <img src="https://qinrong-nku.github.io/ASDFL.png">
