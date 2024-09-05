@@ -12,7 +12,7 @@ I received the B.S.degree in the artificial intelligence from Chongqing Universi
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *3240667471[at]qq[dot]com*
 
-# My Paper at Nankai University
+# My Paper at NKU
 
 - **NCMNet: Neighbor Consistency Mining Network for Two-View Correspondence Pruning, TPAMI 2024**
 
@@ -22,7 +22,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 <img src="https://qinrong-nku.github.io/Perceive.png" align = "middle" />
 
-# My Paper at Chongqing University
+# My Paper at CQU
 
 - **Kernel Inversed Pyramidal Resizing Network for Efficient Pavement Distress Recognition, ICONIP 2022**
 
