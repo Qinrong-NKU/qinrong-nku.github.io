@@ -16,21 +16,21 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **NCMNet: Neighbor Consistency Mining Network for Two-View Correspondence Pruning, TPAMI 2024**
 
-<img src="https://qinrong-nku.github.io/NCMNet.png">
+<img src="https://qinrong-nku.github.io/NCMNet.png" align = "middle">
 
 **Perceive before Respond: Improving Sticker Response Selection by Emotion Distillation and Hard Mining, ACM MM 2024**
 
-<img src="https://qinrong-nku.github.io/Perceive.png">
+<img src="https://qinrong-nku.github.io/Perceive.png" align = "middle">
 
 **ASDFL: An adaptive super‐pixel discriminative feature‐selective learning for vehicle matching, Expert Systems 2022**
 
-<img src="https://qinrong-nku.github.io/ASDFL.png">
+<img src="https://qinrong-nku.github.io/ASDFL.png" align = "middle">
 
 **Kernel Inversed Pyramidal Resizing Network for Efficient Pavement Distress Recognition, ICONIP 2022**
 
-<img src="https://qinrong-nku.github.io/Kernel.png" height="375" width="600"/>
+<img src="https://qinrong-nku.github.io/Kernel.png" height="375" width="600" align = "middle"/ >
 
 **MSTIL: Multi-cue Shape-aware Transferable Imbalance Learning for effective graphic API recommendation, JSS 2022**
 
-<img src="https://qinrong-nku.github.io/MSTIL.png" height="375" width="700"/>
+<img src="https://qinrong-nku.github.io/MSTIL.png" height="375" width="700" align = "middle"/>
 
