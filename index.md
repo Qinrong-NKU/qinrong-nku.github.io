@@ -16,11 +16,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **NCMNet: Neighbor Consistency Mining Network for Two-View Correspondence Pruning, TPAMI 2024**
 
-<img src="https://qinrong-nku.github.io/NCMNet.png" align = "middle" />
 
 - **Perceive before Respond: Improving Sticker Response Selection by Emotion Distillation and Hard Mining, ACM MM 2024**
 
-<img src="https://qinrong-nku.github.io/Perceive.png" align = "middle" />
 
 # My Paper at CQU
 
