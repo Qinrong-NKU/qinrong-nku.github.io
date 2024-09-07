@@ -10,23 +10,23 @@ Here is **Rong Qin(秦荣)**.
 
 I received the B.S.degree in the artificial intelligence from Chongqing University, Chongqing, China, in 2023. I am currently pursuing the Ph.D. degree with Nankai University, Tianjin, China. My current research interestsinclude affective computing and high-resolution image processing.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *3240667471[at]qq[dot]com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *3240667471@qq.com*
 
 # My Paper at NKU
 
-- **NCMNet: Neighbor Consistency Mining Network for Two-View Correspondence Pruning, TPAMI 2024**
+- **NCMNet: Neighbor Consistency Mining Network for Two-View Correspondence Pruning, TPAMI Regular paper 2024**
 
 
-- **Perceive before Respond: Improving Sticker Response Selection by Emotion Distillation and Hard Mining, ACM MM 2024**
+- **Perceive before Respond: Improving Sticker Response Selection by Emotion Distillation and Hard Mining, ACM MM Poster 2024**
 
 
 # My Paper at CQU
 
-- **Kernel Inversed Pyramidal Resizing Network for Efficient Pavement Distress Recognition, ICONIP 2022**
+- **Kernel Inversed Pyramidal Resizing Network for Efficient Pavement Distress Recognition, ICONIP Oral 2022**
 
-- **MSTIL: Multi-cue Shape-aware Transferable Imbalance Learning for effective graphic API recommendation, Journal of Systems and Software 2022**
+- **MSTIL: Multi-cue Shape-aware Transferable Imbalance Learning for effective graphic API recommendation, Journal of Systems and Software Regular paper 2022**
 
-- **ASDFL: An adaptive super‐pixel discriminative feature‐selective learning for vehicle matching, Expert Systems 2022**
+- **ASDFL: An adaptive super‐pixel discriminative feature‐selective learning for vehicle matching, Expert Systems Regular paper 2022**
 
 
 
