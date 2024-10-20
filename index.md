@@ -17,7 +17,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **NCMNet: Neighbor Consistency Mining Network for Two-View Correspondence Pruning, TPAMI Regular Paper 2024**
 
 
-- **Perceive before Respond: Improving Sticker Response Selection by Emotion Distillation and Hard Mining, ACM MM Poster 2024**
+- **Perceive before Respond: Improving Sticker Response Selection by Emotion Distillation and Hard Mining, <font color="red">ACM MM Poster 2024</font>**
 
 
 # My Paper at CQU
