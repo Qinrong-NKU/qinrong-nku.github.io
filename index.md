@@ -25,7 +25,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **2. MSTIL: Multi-cue Shape-aware Transferable Imbalance Learning for effective graphic API recommendation, Journal of Systems and Software Regular Paper 2022**
 
-- **1. ASDFL: An adaptive super‐pixel discriminative feature‐selective learning for vehicle matching, Expert Systems Regular Paper 2022**
+**1. ASDFL: An adaptive super‐pixel discriminative feature‐selective learning for vehicle matching, Expert Systems Regular Paper 2022**
 
 
 
