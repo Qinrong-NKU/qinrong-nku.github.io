@@ -17,15 +17,15 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **NCMNet: Neighbor Consistency Mining Network for Two-View Correspondence Pruning, TPAMI Regular Paper 2024**
 
 
-**1.  Perceive before Respond: Improving Sticker Response Selection by Emotion Distillation and Hard Mining, ACM MM Poster 2024**
+- **Perceive before Respond: Improving Sticker Response Selection by Emotion Distillation and Hard Mining, ACM MM Poster 2024**
 
 # My Paper at CQU
 
-**3.  Kernel Inversed Pyramidal Resizing Network for Efficient Pavement Distress Recognition, ICONIP Oral 2022**
+- **Kernel Inversed Pyramidal Resizing Network for Efficient Pavement Distress Recognition, ICONIP Oral 2022**
 
-**2.  MSTIL: Multi-cue Shape-aware Transferable Imbalance Learning for effective graphic API recommendation, Journal of Systems and Software Regular Paper 2022**
+- **MSTIL: Multi-cue Shape-aware Transferable Imbalance Learning for effective graphic API recommendation, Journal of Systems and Software Regular Paper 2022**
 
-**1.  ASDFL: An adaptive super‐pixel discriminative feature‐selective learning for vehicle matching, Expert Systems Regular Paper 2022**
+- **ASDFL: An adaptive super‐pixel discriminative feature‐selective learning for vehicle matching, Expert Systems Regular Paper 2022**
 
 
 
