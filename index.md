@@ -14,7 +14,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 # My Paper at NKU
 
-**2.  NCMNet: Neighbor Consistency Mining Network for Two-View Correspondence Pruning, TPAMI Regular Paper 2024**
+2- **NCMNet: Neighbor Consistency Mining Network for Two-View Correspondence Pruning, TPAMI Regular Paper 2024**
 
 
 **1.  Perceive before Respond: Improving Sticker Response Selection by Emotion Distillation and Hard Mining, ACM MM Poster 2024**
