@@ -8,7 +8,7 @@ layout: page
 
 Here is **Rong Qin(秦荣)**.
 
-I received the B.S.degree in the artificial intelligence from Chongqing University, Chongqing, China, in 2023. I am currently pursuing the Ph.D. degree with Nankai University, Tianjin, China. My current research interestsinclude affective computing and high-resolution image processing.
+I received the B.S.degree in the artificial intelligence from Chongqing University, Chongqing, China, in 2023. I am currently pursuing the Ph.D. degree with Nankai University, Tianjin, China. My current research interests include affective computing and high-resolution image processing.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *3240667471@qq.com*
 
