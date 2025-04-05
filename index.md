@@ -14,7 +14,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 # My Paper at NKU
 
-- **No pains, more gains: Recycling sub-salient patches for efficient high-resolution image recognition, CVPR Poster 2025**
+- **No pains, more gains: Recycling sub-salient patches for efficient high-resolution image recognition, CVPR Highlight 2025**
 
 - **Boosting the dual-stream architecture in ultra-high resolution segmentation with resolution-biased uncertainty estimation, CVPR Poster 2025**
 
